@@ -1,0 +1,1 @@
+A simple Java Banking Management System built using JDBC and MySQL. It allows users to create accounts, check balances, deposit, withdraw, transfer funds, and manage accounts with proper transaction management. The system handles secure data and ensures consistency using auto-commit and rollback mechanisms.
